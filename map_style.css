@@ -1,0 +1,55 @@
+body { 
+	background-image: url(sl_112020_38170_13.jpg);
+}
+
+.gmap {
+	border-style: double;
+	height: 500px;
+}
+h1,h2{ 
+    color:  #332030;
+    text-align: center;
+    padding-top: 50px;
+}
+p{
+    color: rgb(84, 79, 73);
+	text-align: right;
+	
+}
+h3{ 
+    text-align: center;
+    color: #63445f;
+    padding-top: 25px;
+}
+#copyright{
+    background-color: rgba(0, 0, 0, 0.2);
+	
+}
+footer{
+    background-color: #c9a4c4;
+  	
+}
+.zoom:hover{
+    transform: scale(1.4);
+    transition: transform .2s;
+    color: #ff0077;
+  }
+h5{
+    color: #332030;
+}
+.m-1{
+	color:#332030;
+}
+.infowindow{
+	width: 400px;
+}
+.infowindow p{
+    display: flex;
+	text-align: left;
+	align-content: center;
+  }
+  .infowindow img {
+    width: 250px;
+    height: 200px;
+    margin-right: 5px;
+  }
